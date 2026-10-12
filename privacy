@@ -1,0 +1,65 @@
+Canvas Customizer Privacy Policy
+Last updated: October 12, 2026
+
+Canvas Customizer is a browser extension that provides customization and productivity features for Canvas LMS.
+
+Information Accessed
+Canvas Customizer accesses Canvas information necessary for its features, including course names, course identifiers, assignments, due dates, course colors, and related Canvas content.
+
+The extension also processes settings users create, such as themes, dashboard layouts, notes, shortcuts, and To-Do preferences.
+
+How Information Is Used
+Information is used to customize Canvas, organize courses, track assignments, display dashboard widgets, and provide optional Google Calendar synchronization.
+
+Local Storage
+Customization settings and locally created information are stored using Chrome extension storage.
+
+Canvas Customizer does not operate a developer-controlled server that collects users' Canvas account information or customization settings.
+
+Google Calendar Integration
+Google Calendar integration is optional and requires user authorization through Google's OAuth system.
+
+When enabled, Canvas Customizer can:
+
+Create a dedicated calendar named Canvas Due Dates.
+Find an existing calendar created by Canvas Customizer.
+Create, update, and remove synchronized assignment events.
+Read calendar-list metadata to reconnect to its previously created calendar.
+Assignment titles, course information, due dates, Canvas links, and synchronization identifiers may be sent to Google Calendar to provide this functionality.
+
+The extension requests access to manage calendars it creates rather than unrestricted access to personal calendar events.
+
+Google authorization is handled through Chrome's identity system. Canvas Customizer does not request users' Google or Canvas passwords.
+
+Data Sharing
+Canvas Customizer does not sell user information or share it for advertising, marketing, or profiling.
+
+When users enable Google Calendar synchronization, necessary assignment information is transmitted directly to Google's services.
+
+Optional themes may retrieve visual media from external content providers.
+
+Analytics and Advertising
+Canvas Customizer does not include behavioral advertising or developer-operated user analytics.
+
+Data Retention and Deletion
+Users can remove locally stored customization settings through the extension's reset features or browser storage controls.
+
+Users can disconnect Google Calendar synchronization at any time.
+
+Disconnecting or uninstalling Canvas Customizer does not automatically delete the Canvas Due Dates calendar or events previously created in Google Calendar. Users may delete these through their Google account.
+
+Google API Limited Use
+Canvas Customizer's use of information received from Google APIs adheres to the Google API Services User Data Policy, including its Limited Use requirements.
+
+Google user data is used only to provide the disclosed calendar synchronization functionality. It is not sold, used for advertising, or transferred for unrelated purposes.
+
+Changes
+This policy may be updated when extension features or data-handling practices change.
+
+Contact
+For privacy questions, contact:
+
+sylphismyname@gmail.com
+
+Return to Homepage
+
