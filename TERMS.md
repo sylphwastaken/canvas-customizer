@@ -1,123 +1,71 @@
-# Canvas Customizer — Terms & Conditions
+---
+permalink: /terms/
+---
 
-**Last Updated: October 12, 2026**
+# Canvas Customizer Terms & Conditions
 
-### 1. Introduction
+**Last updated: October 12, 2026**
 
-These Terms & Conditions govern your use of Canvas Customizer, a browser extension independently developed and maintained by Sylph.
+### 1. Acceptance
 
-By installing or using Canvas Customizer, you agree to these terms. If you do not agree, you should discontinue use of the extension.
+By installing or using Canvas Customizer, you agree to these Terms & Conditions.
 
-### 2. Description of Service
+### 2. Service
 
-Canvas Customizer provides tools for personalizing and improving the Canvas LMS experience.
-
-Features include custom themes, dashboard organization, course customization, assignment tracking, productivity widgets, and optional Google Calendar synchronization.
-
-Canvas Customizer operates independently of Instructure and individual educational institutions. It is not an official Canvas LMS product.
+Canvas Customizer provides customization and productivity tools for Canvas LMS, including themes, dashboard organization, assignment tracking, and optional Google Calendar synchronization.
 
 ### 3. Acceptable Use
 
-Canvas Customizer is intended for personal customization and productivity purposes.
+Users agree to use the extension lawfully and in accordance with their educational institution's policies.
 
-Users agree not to use the extension to gain unauthorized access to information, interfere with Canvas LMS functionality, circumvent institutional security measures, or violate applicable laws.
+The extension must not be used to gain unauthorized access to information or bypass security restrictions.
 
-Users are responsible for complying with their institution's policies regarding third-party browser extensions.
+### 4. Google Calendar
 
-### 4. Google Calendar Integration
+Google Calendar synchronization requires user authorization.
 
-Canvas Customizer offers optional integration with Google Calendar.
+When enabled, Canvas Customizer may create, update, or remove events within its dedicated calendar as Canvas assignments change.
 
-When authorized, the extension can create or reconnect to a separate Google Calendar named Canvas Due Dates and synchronize assignment information from Canvas.
+Users can disconnect synchronization at any time. Previously synchronized events may remain in their Google account.
 
-Synchronized information may include assignment titles, course names, deadlines, associated identifiers, and links to Canvas.
+### 5. Accuracy
 
-Calendar events may be created, modified, or removed as assignment information changes. Manual changes to synchronized events may be overwritten during subsequent synchronization.
+Canvas Customizer is a supplementary productivity tool. Assignment information and calendar synchronization may occasionally be delayed or inaccurate.
 
-Google Calendar integration requires the user's permission and can be disconnected at any time.
+Users are responsible for checking official deadlines, grades, and course information directly in Canvas LMS.
 
-Disconnecting does not automatically delete the Canvas Due Dates calendar or its existing events.
+### 6. Third-Party Services
 
-Users remain responsible for verifying assignment deadlines directly in Canvas LMS.
+Canvas Customizer uses services and resources provided by third parties, including Canvas LMS, Google Calendar, and optional visual media providers.
 
-### 5. Data and Privacy
+Their availability and functionality are outside the developer's control.
 
-Canvas Customizer stores customization settings and locally created information in the user's browser.
+### 7. Privacy
 
-When Google Calendar integration is enabled, assignment information is transmitted to Google's services for synchronization.
+Information about data access, usage, storage, and sharing is available in the [Privacy Policy](https://canvascustomizer.xyz/privacy/).
 
-Canvas Customizer does not sell personal information or use collected information for advertising.
+### 8. Availability
 
-Further information about data handling is available in the Canvas Customizer Privacy Policy.
+Features may change or become unavailable following extension updates, browser changes, or modifications to Canvas LMS.
 
-Use of Google Calendar is also subject to Google's applicable terms and privacy policies.
+### 9. Disclaimer
 
-### 6. Third-Party Services and Content
+Canvas Customizer is provided "as is" without guarantees of uninterrupted or error-free operation, to the extent permitted by applicable law.
 
-Canvas Customizer interacts with Canvas LMS, Google Calendar, and external resources used for optional visual customization.
+The developer is not responsible for missed academic deadlines or losses caused by synchronization errors or third-party service interruptions, except where liability cannot legally be excluded.
 
-These services are operated independently and may change their features, availability, or requirements.
+### 10. Changes
 
-Canvas Customizer is not responsible for disruptions caused by third-party services, institutional restrictions, or changes to external websites.
+These terms may be updated as the extension develops. The latest version will be made available on this website.
 
-Certain optional themes may include images or animations associated with third-party properties. Ownership of those properties remains with their respective rights holders.
-
-### 7. Accuracy and Reliability
-
-Canvas Customizer is provided as a supplementary productivity tool.
-
-Although reasonable efforts are made to maintain accurate assignment tracking and synchronization, errors or delays may occur.
-
-The extension does not guarantee that assignment information, calendar events, grades, or notifications will always be complete, current, or accurate.
-
-Users should rely on Canvas LMS and their educational institution for official academic information.
-
-### 8. Availability and Updates
-
-Canvas Customizer may receive updates, modifications, feature additions, or feature removals.
-
-Compatibility may be affected by changes to Canvas LMS, browser functionality, or third-party services.
-
-Features may occasionally be unavailable due to maintenance, technical issues, or service interruptions.
-
-### 9. Disclaimer of Warranties
-
-Canvas Customizer is provided "as is" and "as available," without warranties of uninterrupted operation, compatibility, or fitness for a particular purpose, to the extent permitted by applicable law.
-
-The developer makes reasonable efforts to maintain the extension but cannot guarantee error-free functionality.
-
-### 10. Limitation of Liability
-
-To the extent permitted by applicable law, the developer is not responsible for losses resulting from inaccurate assignment information, missed deadlines, failed synchronization, service interruptions, or incompatibility with third-party platforms.
-
-Nothing in these terms excludes liability that cannot legally be excluded.
-
-### 11. Termination of Use
-
-Users may discontinue use of Canvas Customizer at any time by disabling or uninstalling the extension.
-
-Uninstalling the extension does not necessarily delete information previously synchronized to Google Calendar. Such information can be managed through the user's Google account.
-
-### 12. Changes to These Terms
-
-These Terms & Conditions may be updated to reflect changes in functionality, legal requirements, or operating practices.
-
-The latest version will be made available through the project's public documentation.
-
-Continued use of Canvas Customizer following applicable updates constitutes acceptance of the revised terms, where permitted by law.
-
-### 13. Contact
-
-For questions regarding Canvas Customizer or these Terms & Conditions, contact:
+### 11. Contact
 
 sylphismyname@gmail.com
 
-### 14. Independence Disclaimer
+### 12. Independence
 
-Canvas Customizer is an independent software project.
+Canvas Customizer is independently developed by Sylph and is not affiliated with, sponsored by, or endorsed by Instructure, Canvas LMS, Google, or any educational institution.
 
-It is not affiliated with, sponsored by, or endorsed by Instructure, Canvas LMS, Google, or any educational institution.
+© 2026 Canvas Customizer.
 
-All respective trademarks remain the property of their owners.
-
-© 2026 Canvas Customizer. Created by Sylph.
+[Return to Homepage](https://canvascustomizer.xyz/)
